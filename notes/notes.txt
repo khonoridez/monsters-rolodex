@@ -1,0 +1,8 @@
+// Error in create-react-app installation
+// https://stackoverflow.com/questions/54971651/create-react-app-command-aborting-installation-why
+> npm cache clean --force
+
+// deploy to github pages
+https://create-react-app.dev/docs/deployment
+
+npm install --save gh-pages
